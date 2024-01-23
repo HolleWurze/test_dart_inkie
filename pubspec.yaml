@@ -1,0 +1,15 @@
+name: test_dart_inkie
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.2.5
+
+# Add regular dependencies here.
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
